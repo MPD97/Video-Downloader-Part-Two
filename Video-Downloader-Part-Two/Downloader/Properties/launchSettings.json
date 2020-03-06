@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Downloader": {
+      "commandName": "Project",
+      "commandLineArgs": "‪‪‪D:\\Geofabrik\\planet-190708.osm.bz2"
+    }
+  }
+}
